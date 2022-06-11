@@ -10,3 +10,6 @@ edition = "2021"
 systemstat = "0.1.11"
 #audio-generator = "0.1.0-alpha.1"
 rodio = "0.15.0"
+
+psutil = "3.2.2" # "A process and system monitoring library for Rust, heavily inspired by the psutil module for Python." 
+# (copied from https://docs.rs/psutil/latest/psutil/index.html)

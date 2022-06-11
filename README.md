@@ -30,7 +30,7 @@ existing software/tooling:
 
 from https://news.ycombinator.com/item?id=24850583
 
-* using: `systemstat` (system state/load) and `rodio` libraries (audio playback library)
+* using: `systemstat` (system state/load) and `rodio` libraries (audio playback library) and `psutil` (rust-psutil) again for system state/load(pid/tasks)
 
 ### license
 
