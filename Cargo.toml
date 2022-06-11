@@ -1,0 +1,12 @@
+[package]
+name = "sound-log"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#sys-info = "0.9.1"
+systemstat = "0.1.11"
+#audio-generator = "0.1.0-alpha.1"
+rodio = "0.15.0"
